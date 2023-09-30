@@ -13,3 +13,17 @@ C:\Users\chait\Desktop\consoleapp\obj\Debug\net6.0\refint\consoleapp.dll
 C:\Users\chait\Desktop\consoleapp\obj\Debug\net6.0\consoleapp.pdb
 C:\Users\chait\Desktop\consoleapp\obj\Debug\net6.0\consoleapp.genruntimeconfig.cache
 C:\Users\chait\Desktop\consoleapp\obj\Debug\net6.0\ref\consoleapp.dll
+C:\Users\chait\source\repos\console-app-jenkins.git\bin\Debug\net6.0\consoleapp.exe
+C:\Users\chait\source\repos\console-app-jenkins.git\bin\Debug\net6.0\consoleapp.deps.json
+C:\Users\chait\source\repos\console-app-jenkins.git\bin\Debug\net6.0\consoleapp.runtimeconfig.json
+C:\Users\chait\source\repos\console-app-jenkins.git\bin\Debug\net6.0\consoleapp.dll
+C:\Users\chait\source\repos\console-app-jenkins.git\bin\Debug\net6.0\consoleapp.pdb
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\consoleapp.AssemblyInfo.cs
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\consoleapp.dll
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\refint\consoleapp.dll
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\consoleapp.pdb
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\consoleapp.genruntimeconfig.cache
+C:\Users\chait\source\repos\console-app-jenkins.git\obj\Debug\net6.0\ref\consoleapp.dll
